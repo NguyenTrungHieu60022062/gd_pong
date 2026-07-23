@@ -13,6 +13,6 @@ Godot v4.7.
 #### 2.Open the project in Godot
 #### 3.Run the game
 ### Controls
-* Move Up:```text Up Arrow ```
-* Move Down:```text Down Arrow ```
+* Move Up:``` Up Arrow ```
+* Move Down:``` Down Arrow ```
 
