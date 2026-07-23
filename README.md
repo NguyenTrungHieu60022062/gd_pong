@@ -1,4 +1,4 @@
-#  Pong Game with Godot 4.3
+#  Pong Game with Godot 4.7
 Welcome to the Pong Game built with Godot 4.7
 ## Features
 - **Pong Gameplay:** PvE action.
